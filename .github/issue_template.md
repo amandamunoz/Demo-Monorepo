@@ -1,8 +1,8 @@
-# Summary of the problem
+# Summary of the problem 📝
 <!---What's the...issue?? -->
 
 
-## Questions
+## Questions ❓
 <!---Some helpful questions for the team to know before we jump in-->
 
 1. What browser and environment are you on?
