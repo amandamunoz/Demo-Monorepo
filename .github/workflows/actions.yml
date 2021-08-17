@@ -1,0 +1,8 @@
+name: Monorepo Action Example
+on: [push]
+jobs: 
+    first-job:
+      runs-on: ubuntu-latest
+      steps:
+        - run: echo "Test step one"
+        - run: echo "Test step two"
