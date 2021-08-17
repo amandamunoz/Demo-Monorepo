@@ -2,7 +2,7 @@
 <img src="home.png"
      alt="An image of the homepage"
      style="width:100%; height:500px" />
-## How to run this project 
+## Getting Started
 
 It may make more sense to include these instructions in the `package.json` pre `yarn start:dev`. The reasoning would be if we added a new package or added new data to the seed file someone wouldn't have to take the time to think about what they need to do post-merge.
 
