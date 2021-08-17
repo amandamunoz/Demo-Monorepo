@@ -1,0 +1,23 @@
+{
+  "name": "Monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideas42ventures/Demo-Monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideas42ventures/Demo-Monorepo/issues"
+  },
+  "homepage": "https://github.com/ideas42ventures/Demo-Monorepo#readme",
+  "devDependencies": {
+    "husky": "^7.0.1"
+  }
+}
